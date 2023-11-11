@@ -1,6 +1,6 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
-import { Quicksand } from "@next/font/google";
+import { Quicksand } from "next/font/google";
 
 const config: DocsThemeConfig = {
   logo: <span>My Project</span>,
